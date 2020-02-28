@@ -1,0 +1,5 @@
+//babel을 위한 모든 환경설정값 적용
+//npm install babel-cli babel-preset-env babel-preset-stage-3 --dev
+{
+  "presets": ["env", "stage-3"]
+}
